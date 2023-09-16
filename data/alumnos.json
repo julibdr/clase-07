@@ -1,0 +1,56 @@
+[
+  {
+    "legajo": 1,
+    "nombre": "Julia",
+    "apellido": "Maidana",
+    "anio": 2016
+  },
+  {
+    "legajo": 2,
+    "nombre": "Catia",
+    "apellido": "Piombo",
+    "anio": 2017
+  },
+  {
+    "legajo": 3,
+    "nombre": "Nicolas",
+    "apellido": "Gonzalez",
+    "anio": 2015
+  },
+  {
+    "legajo": 4,
+    "nombre": "Valentino",
+    "apellido": "Conosciuto",
+    "anio": 2021
+  },
+  {
+    "legajo": 5,
+    "nombre": "Francisco",
+    "apellido": "Rodriguez",
+    "anio": 2020
+  },
+  {
+    "legajo": 6,
+    "nombre": "Josefina",
+    "apellido": "Mosquera",
+    "anio": 2014
+  },
+  {
+    "legajo": 7,
+    "nombre": "Sofia",
+    "apellido": "Gomez",
+    "anio": 2015
+  },
+  {
+    "legajo": 8,
+    "nombre": "Lola",
+    "apellido": "Vazquez",
+    "anio": 2019
+  },
+  {
+    "legajo": 9,
+    "nombre": "Federico",
+    "apellido": "Fernandez",
+    "anio": 2022
+  }
+]
